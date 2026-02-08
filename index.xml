@@ -6,65 +6,65 @@
       <description>Last 10 notes on Fractuna</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
-    <title>test note for this file</title>
-    <link>https://quartz.jzhao.xyz/03---Notes/test-note-for-this-file</link>
-    <guid>https://quartz.jzhao.xyz/03---Notes/test-note-for-this-file</guid>
-    <description><![CDATA[ Hello this is my test note. ]]></description>
-    <pubDate>Sat, 07 Feb 2026 13:01:15 GMT</pubDate>
+    <title>Me</title>
+    <link>https://quartz.jzhao.xyz/Me</link>
+    <guid>https://quartz.jzhao.xyz/Me</guid>
+    <description><![CDATA[ Well it’s me xd. ]]></description>
+    <pubDate>Sun, 08 Feb 2026 17:13:57 GMT</pubDate>
   </item><item>
-    <title>Home</title>
-    <link>https://quartz.jzhao.xyz/Home</link>
-    <guid>https://quartz.jzhao.xyz/Home</guid>
-    <description><![CDATA[ Hello! my name is Fractuna and this is my diary system. I do: Programming, Music. I like: Reading/Writing, Aesthetics, Old techs, Silence. ]]></description>
-    <pubDate>Sat, 07 Feb 2026 12:57:14 GMT</pubDate>
+    <title>Retrocloud</title>
+    <link>https://quartz.jzhao.xyz/01---Projects/retrocloud/Retrocloud</link>
+    <guid>https://quartz.jzhao.xyz/01---Projects/retrocloud/Retrocloud</guid>
+    <description><![CDATA[ Well… It’s an amazing project :&gt;. ]]></description>
+    <pubDate>Sun, 08 Feb 2026 17:03:47 GMT</pubDate>
+  </item><item>
+    <title>Network programming with Go</title>
+    <link>https://quartz.jzhao.xyz/05---Books/Network-programming-with-Go</link>
+    <guid>https://quartz.jzhao.xyz/05---Books/Network-programming-with-Go</guid>
+    <description><![CDATA[ Notes network topologies point to point (P2P) direct connection from one node to another daisy multi p2p connections hops the nodes between source and destination in t he daisy topology is called hops. ]]></description>
+    <pubDate>Sun, 08 Feb 2026 16:53:39 GMT</pubDate>
+  </item><item>
+    <title>Pending Progress</title>
+    <link>https://quartz.jzhao.xyz/07---Tech/Pending-Progress</link>
+    <guid>https://quartz.jzhao.xyz/07---Tech/Pending-Progress</guid>
+    <description><![CDATA[ my last progress states:. ]]></description>
+    <pubDate>Sun, 08 Feb 2026 16:47:22 GMT</pubDate>
+  </item><item>
+    <title>Digital Minimalism</title>
+    <link>https://quartz.jzhao.xyz/05---Books/Digital-Minimalism</link>
+    <guid>https://quartz.jzhao.xyz/05---Books/Digital-Minimalism</guid>
+    <description><![CDATA[  ]]></description>
+    <pubDate>Sun, 08 Feb 2026 16:43:40 GMT</pubDate>
+  </item><item>
+    <title>diary</title>
+    <link>https://quartz.jzhao.xyz/04---Diary/diary</link>
+    <guid>https://quartz.jzhao.xyz/04---Diary/diary</guid>
+    <description><![CDATA[ Hello this is my today diary. ]]></description>
+    <pubDate>Sun, 08 Feb 2026 11:42:10 GMT</pubDate>
   </item><item>
     <title>index</title>
     <link>https://quartz.jzhao.xyz/</link>
     <guid>https://quartz.jzhao.xyz/</guid>
     <description><![CDATA[ Hello! my name is Fractuna and this is my diary system. I do: Programming, Music. I like: Reading/Writing, Aesthetics, Old techs, Silence. ]]></description>
-    <pubDate>Sat, 07 Feb 2026 12:57:14 GMT</pubDate>
+    <pubDate>Sat, 07 Feb 2026 13:32:57 GMT</pubDate>
   </item><item>
-    <title>Untitled</title>
-    <link>https://quartz.jzhao.xyz/01---Projects/Untitled</link>
-    <guid>https://quartz.jzhao.xyz/01---Projects/Untitled</guid>
-    <description><![CDATA[ hello. ]]></description>
-    <pubDate>Sat, 07 Feb 2026 12:54:41 GMT</pubDate>
+    <title>Interestings</title>
+    <link>https://quartz.jzhao.xyz/07---Tech/Interestings</link>
+    <guid>https://quartz.jzhao.xyz/07---Tech/Interestings</guid>
+    <description><![CDATA[ All the things that I want to as side jobs How to make package in flatpak Read the source code of maxwell spinning cat github Make my note space on the web with jackyzha0/Quarts.git Work on the reactive version of my website eikoakiba Does more scrros makes something reliyble Read about the LisaOS f... ]]></description>
+    <pubDate>Sat, 07 Feb 2026 09:13:05 GMT</pubDate>
   </item><item>
-    <title>diary</title>
-    <link>https://quartz.jzhao.xyz/04---Diary/diary</link>
-    <guid>https://quartz.jzhao.xyz/04---Diary/diary</guid>
-    <description><![CDATA[ Hello, I just think I need to make the website more fun and reactive. ]]></description>
-    <pubDate>Fri, 06 Feb 2026 20:29:27 GMT</pubDate>
+    <title>Svelte Learning Notes</title>
+    <link>https://quartz.jzhao.xyz/07---Tech/01---Front-end-Programming/Svelte/Svelte-Learning-Notes</link>
+    <guid>https://quartz.jzhao.xyz/07---Tech/01---Front-end-Programming/Svelte/Svelte-Learning-Notes</guid>
+    <description><![CDATA[ Current State of learning I’m here right now svelte learning platyground. ]]></description>
+    <pubDate>Fri, 06 Feb 2026 20:51:13 GMT</pubDate>
   </item><item>
     <title>Eikoakiba personal website</title>
     <link>https://quartz.jzhao.xyz/01---Projects/Eikoakiba/Eikoakiba-personal-website</link>
     <guid>https://quartz.jzhao.xyz/01---Projects/Eikoakiba/Eikoakiba-personal-website</guid>
     <description><![CDATA[ Well, I think it’s time to make a svelte website for myself instead of just creating static pages over and over again. ]]></description>
     <pubDate>Fri, 06 Feb 2026 20:27:43 GMT</pubDate>
-  </item><item>
-    <title>blogs</title>
-    <link>https://quartz.jzhao.xyz/02---Blogs/blogs</link>
-    <guid>https://quartz.jzhao.xyz/02---Blogs/blogs</guid>
-    <description><![CDATA[ Here is a visual list of all my blogs web Let’s have a talk… . ]]></description>
-    <pubDate>Fri, 06 Feb 2026 19:32:00 GMT</pubDate>
-  </item><item>
-    <title>psm</title>
-    <link>https://quartz.jzhao.xyz/01---Projects/psm/psm</link>
-    <guid>https://quartz.jzhao.xyz/01---Projects/psm/psm</guid>
-    <description><![CDATA[ Current Progress Change-logs Ideas use a ‘vault’ like file instead of saving all password inside a folder, because we could have metadata leaking system. ]]></description>
-    <pubDate>Thu, 05 Feb 2026 08:31:42 GMT</pubDate>
-  </item><item>
-    <title>Pony - Static diary system</title>
-    <link>https://quartz.jzhao.xyz/01---Projects/Pony/Pony---Static-diary-system</link>
-    <guid>https://quartz.jzhao.xyz/01---Projects/Pony/Pony---Static-diary-system</guid>
-    <description><![CDATA[ Description It’s an feature rich static HTML generation program, but with some tweaks for create special and easy to use/maintain diary systems. ]]></description>
-    <pubDate>Mon, 26 Jan 2026 18:45:43 GMT</pubDate>
-  </item><item>
-    <title>Code Of Christmas Project Schema</title>
-    <link>https://quartz.jzhao.xyz/01---Projects/Christmas-Time/Code-Of-Christmas-Project-Schema</link>
-    <guid>https://quartz.jzhao.xyz/01---Projects/Christmas-Time/Code-Of-Christmas-Project-Schema</guid>
-    <description><![CDATA[ Main Page Route Schema → / A simple page that says greetings to the user Progress Creating the base route Returning the complete data Challenges page Route Schema → /challanges/&lt;year&gt; Shows all challenges of that year Progress Creating the base route Creating the internal implementation Creati... ]]></description>
-    <pubDate>Wed, 14 Jan 2026 17:02:12 GMT</pubDate>
   </item>
     </channel>
   </rss>

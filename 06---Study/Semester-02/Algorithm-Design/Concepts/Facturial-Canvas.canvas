@@ -1,0 +1,17 @@
+{
+	"nodes":[
+		{"id":"b224001073e319e9","type":"text","text":"Fact(6) = 5 * <span style=\"color:red\">24</span> = 120","x":-380,"y":-360,"width":280,"height":60},
+		{"id":"1c21294e75321bc2","type":"text","text":"Fact(4) = 4 * <span style=\"color:red\">6</span> = 24","x":-255,"y":-220,"width":250,"height":60},
+		{"id":"b59fe90b90b89419","type":"text","text":"Fact(3)","x":-205,"y":-60,"width":250,"height":60},
+		{"id":"52fd0024392846d6","type":"text","text":"Fact(3) = 3 * <span style=\"color:red\">2</span> = 6","x":-205,"y":-60,"width":250,"height":60},
+		{"id":"6e1d2d3e524a58fc","type":"text","text":"Facturial Formula:\n\nN * (N-1)","x":245,"y":-400,"width":280,"height":140,"color":"2"},
+		{"id":"22dec3ab20bb82c9","type":"text","text":"Fact(2) = 2 * <span style=\"color:red\">1</span> = 2","x":-80,"y":80,"width":250,"height":60},
+		{"id":"10dd52c3aaf8640d","type":"text","text":"Fact(1) = 1","x":45,"y":220,"width":250,"height":60}
+	],
+	"edges":[
+		{"id":"c2f043bb3c919b48","fromNode":"b224001073e319e9","fromSide":"bottom","toNode":"1c21294e75321bc2","toSide":"top"},
+		{"id":"513f4a5b6e38bbeb","fromNode":"1c21294e75321bc2","fromSide":"bottom","toNode":"b59fe90b90b89419","toSide":"top"},
+		{"id":"b97bfa13c647888d","fromNode":"22dec3ab20bb82c9","fromSide":"bottom","toNode":"10dd52c3aaf8640d","toSide":"top"},
+		{"id":"0321df97f6abba0a","fromNode":"22dec3ab20bb82c9","fromSide":"top","toNode":"b59fe90b90b89419","toSide":"bottom"}
+	]
+}
