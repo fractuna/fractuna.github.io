@@ -6,6 +6,24 @@
       <description>Last 10 notes on Fractuna</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
+    <title>2026-02-09</title>
+    <link>https://quartz.jzhao.xyz/04---Diary/2026-02-09</link>
+    <guid>https://quartz.jzhao.xyz/04---Diary/2026-02-09</guid>
+    <description><![CDATA[ well I think I should spend more time working with 3D part of Godot game engine. ]]></description>
+    <pubDate>Mon, 09 Feb 2026 11:42:57 GMT</pubDate>
+  </item><item>
+    <title>Pending Progress</title>
+    <link>https://quartz.jzhao.xyz/07---Tech/Pending-Progress</link>
+    <guid>https://quartz.jzhao.xyz/07---Tech/Pending-Progress</guid>
+    <description><![CDATA[ my last progress states: Fixing the building new updates problem from quartz Working on a 3D project in Godo Continue learning the Odin programming language Work on on of my projects in Go . ]]></description>
+    <pubDate>Mon, 09 Feb 2026 11:36:17 GMT</pubDate>
+  </item><item>
+    <title>Why IndieWeb?</title>
+    <link>https://quartz.jzhao.xyz/02---Blogs/web/Why-IndieWeb</link>
+    <guid>https://quartz.jzhao.xyz/02---Blogs/web/Why-IndieWeb</guid>
+    <description><![CDATA[ Greetings, have you ever ask yourself what is the purpose of creating handmade websites as a non-technical person using coding language likes HTML/CSS or even Javascript? well if it is then seems like you know what indie web is, but if you don’t know what exactly is that term, well I’ll got you. ]]></description>
+    <pubDate>Sun, 08 Feb 2026 17:35:58 GMT</pubDate>
+  </item><item>
     <title>Me</title>
     <link>https://quartz.jzhao.xyz/Me</link>
     <guid>https://quartz.jzhao.xyz/Me</guid>
@@ -24,23 +42,11 @@
     <description><![CDATA[ Notes network topologies point to point (P2P) direct connection from one node to another daisy multi p2p connections hops the nodes between source and destination in t he daisy topology is called hops. ]]></description>
     <pubDate>Sun, 08 Feb 2026 16:53:39 GMT</pubDate>
   </item><item>
-    <title>Pending Progress</title>
-    <link>https://quartz.jzhao.xyz/07---Tech/Pending-Progress</link>
-    <guid>https://quartz.jzhao.xyz/07---Tech/Pending-Progress</guid>
-    <description><![CDATA[ my last progress states:. ]]></description>
-    <pubDate>Sun, 08 Feb 2026 16:47:22 GMT</pubDate>
-  </item><item>
     <title>Digital Minimalism</title>
     <link>https://quartz.jzhao.xyz/05---Books/Digital-Minimalism</link>
     <guid>https://quartz.jzhao.xyz/05---Books/Digital-Minimalism</guid>
     <description><![CDATA[  ]]></description>
     <pubDate>Sun, 08 Feb 2026 16:43:40 GMT</pubDate>
-  </item><item>
-    <title>diary</title>
-    <link>https://quartz.jzhao.xyz/04---Diary/diary</link>
-    <guid>https://quartz.jzhao.xyz/04---Diary/diary</guid>
-    <description><![CDATA[ Hello this is my today diary. ]]></description>
-    <pubDate>Sun, 08 Feb 2026 11:42:10 GMT</pubDate>
   </item><item>
     <title>index</title>
     <link>https://quartz.jzhao.xyz/</link>
@@ -59,12 +65,6 @@
     <guid>https://quartz.jzhao.xyz/07---Tech/01---Front-end-Programming/Svelte/Svelte-Learning-Notes</guid>
     <description><![CDATA[ Current State of learning I’m here right now svelte learning platyground. ]]></description>
     <pubDate>Fri, 06 Feb 2026 20:51:13 GMT</pubDate>
-  </item><item>
-    <title>Eikoakiba personal website</title>
-    <link>https://quartz.jzhao.xyz/01---Projects/Eikoakiba/Eikoakiba-personal-website</link>
-    <guid>https://quartz.jzhao.xyz/01---Projects/Eikoakiba/Eikoakiba-personal-website</guid>
-    <description><![CDATA[ Well, I think it’s time to make a svelte website for myself instead of just creating static pages over and over again. ]]></description>
-    <pubDate>Fri, 06 Feb 2026 20:27:43 GMT</pubDate>
   </item>
     </channel>
   </rss>
