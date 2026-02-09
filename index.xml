@@ -6,29 +6,35 @@
       <description>Last 10 notes on Fractuna</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
+    <title>Progress List</title>
+    <link>https://quartz.jzhao.xyz/07---Tech/Progress-List</link>
+    <guid>https://quartz.jzhao.xyz/07---Tech/Progress-List</guid>
+    <description><![CDATA[ my last progress states: Fixing the building new updates problem from quartz Working on a 3D documentation in Godo (NOW) Learning and using Fish shell for daily derive Watching the minimalistic phone video set theme for my quartz notes static website (watch the tutorial video) Automate the process o... ]]></description>
+    <pubDate>Mon, 09 Feb 2026 19:22:48 GMT</pubDate>
+  </item><item>
+    <title>2026-02-09</title>
+    <link>https://quartz.jzhao.xyz/04---Diary/2026-02-09</link>
+    <guid>https://quartz.jzhao.xyz/04---Diary/2026-02-09</guid>
+    <description><![CDATA[ well I think I should spend more time working with 3D part of Godot game engine. ]]></description>
+    <pubDate>Mon, 09 Feb 2026 19:20:40 GMT</pubDate>
+  </item><item>
+    <title>todo books</title>
+    <link>https://quartz.jzhao.xyz/05---Books/todo-books</link>
+    <guid>https://quartz.jzhao.xyz/05---Books/todo-books</guid>
+    <description><![CDATA[  Atomic Habits . ]]></description>
+    <pubDate>Mon, 09 Feb 2026 18:47:06 GMT</pubDate>
+  </item><item>
     <title>Godot 3D Doc notes</title>
     <link>https://quartz.jzhao.xyz/07---Tech/02---Game-Programming/Godot/Godot-3D-Doc-notes</link>
     <guid>https://quartz.jzhao.xyz/07---Tech/02---Game-Programming/Godot/Godot-3D-Doc-notes</guid>
     <description><![CDATA[ General To find a vector pointing from A to B, use B - A. Scalar Vectors represent both direction and magnitude (length). ]]></description>
     <pubDate>Mon, 09 Feb 2026 13:07:57 GMT</pubDate>
   </item><item>
-    <title>Pending Progress</title>
-    <link>https://quartz.jzhao.xyz/07---Tech/Pending-Progress</link>
-    <guid>https://quartz.jzhao.xyz/07---Tech/Pending-Progress</guid>
-    <description><![CDATA[ my last progress states: Fixing the building new updates problem from quartz Working on a 3D project in Godo (NOW) Automate the process of building and syncing and pushing my notes to Github Continue learning the Odin programming language Continue learning the Svelte Front end Work on retrospace pro... ]]></description>
-    <pubDate>Mon, 09 Feb 2026 12:55:02 GMT</pubDate>
-  </item><item>
     <title>Interestings</title>
     <link>https://quartz.jzhao.xyz/07---Tech/Interestings</link>
     <guid>https://quartz.jzhao.xyz/07---Tech/Interestings</guid>
     <description><![CDATA[ All the things that I want to as side jobs How to make package in flatpak Read the source code of maxwell spinning cat github Use the Dot() function in Gdscript and see how it works Make my note space on the web with jackyzha0/Quarts.git Work on the reactive version of my website eikoakiba Does more... ]]></description>
     <pubDate>Mon, 09 Feb 2026 12:54:12 GMT</pubDate>
-  </item><item>
-    <title>2026-02-09</title>
-    <link>https://quartz.jzhao.xyz/04---Diary/2026-02-09</link>
-    <guid>https://quartz.jzhao.xyz/04---Diary/2026-02-09</guid>
-    <description><![CDATA[ well I think I should spend more time working with 3D part of Godot game engine. ]]></description>
-    <pubDate>Mon, 09 Feb 2026 12:40:05 GMT</pubDate>
   </item><item>
     <title>Why IndieWeb?</title>
     <link>https://quartz.jzhao.xyz/02---Blogs/web/Why-IndieWeb</link>
@@ -59,12 +65,6 @@
     <guid>https://quartz.jzhao.xyz/05---Books/Digital-Minimalism</guid>
     <description><![CDATA[  ]]></description>
     <pubDate>Sun, 08 Feb 2026 16:43:40 GMT</pubDate>
-  </item><item>
-    <title>index</title>
-    <link>https://quartz.jzhao.xyz/</link>
-    <guid>https://quartz.jzhao.xyz/</guid>
-    <description><![CDATA[ Hello! my name is Fractuna and this is my diary system. I do: Programming, Music. I like: Reading/Writing, Aesthetics, Old techs, Silence. ]]></description>
-    <pubDate>Sat, 07 Feb 2026 13:32:57 GMT</pubDate>
   </item>
     </channel>
   </rss>
