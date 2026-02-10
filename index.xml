@@ -9,8 +9,26 @@
     <title>Progress List</title>
     <link>https://quartz.jzhao.xyz/07---Tech/Progress-List</link>
     <guid>https://quartz.jzhao.xyz/07---Tech/Progress-List</guid>
-    <description><![CDATA[ my last progress states: Fixing the building new updates problem from quartz Working on a 3D documentation in Godo (NOW) Learning and using Fish shell for daily derive Watching the minimalistic phone video set theme for my quartz notes static website (watch the tutorial video) Automate the process o... ]]></description>
-    <pubDate>Mon, 09 Feb 2026 19:22:48 GMT</pubDate>
+    <description><![CDATA[ my last progress states: Fixing the building new updates problem from quartz Working on a 3D documentation in Godo (NOW) Switch over shell with some base configs Watching the minimalistic phone video Make my phone minimal as possible Automate the process of building and syncing and pushing my notes ... ]]></description>
+    <pubDate>Tue, 10 Feb 2026 18:09:16 GMT</pubDate>
+  </item><item>
+    <title>Interestings</title>
+    <link>https://quartz.jzhao.xyz/07---Tech/Interestings</link>
+    <guid>https://quartz.jzhao.xyz/07---Tech/Interestings</guid>
+    <description><![CDATA[ All the things that I want to as side jobs How to make package in flatpak Read the source code of maxwell spinning cat github Use the Dot() function in Gdscript and see how it works Make my note space on the web with jackyzha0/Quarts.git Work on the reactive version of my website eikoakiba Does more... ]]></description>
+    <pubDate>Tue, 10 Feb 2026 18:08:10 GMT</pubDate>
+  </item><item>
+    <title>Why IndieWeb?</title>
+    <link>https://quartz.jzhao.xyz/02---Blogs/web/Why-IndieWeb</link>
+    <guid>https://quartz.jzhao.xyz/02---Blogs/web/Why-IndieWeb</guid>
+    <description><![CDATA[ Greetings, have you ever ask yourself what is the purpose of creating handmade websites as a non-technical person using coding language likes HTML/CSS or even Javascript? well if it is then seems like you know what indie web is, but if you don’t know what exactly is that term, well I’ll got you. ]]></description>
+    <pubDate>Tue, 10 Feb 2026 18:08:03 GMT</pubDate>
+  </item><item>
+    <title>Digital Minimalism</title>
+    <link>https://quartz.jzhao.xyz/05---Books/Digital-Minimalism</link>
+    <guid>https://quartz.jzhao.xyz/05---Books/Digital-Minimalism</guid>
+    <description><![CDATA[ well this books is pretty great, one thing about this book is that it has all the things that I had in my mind, and by reading this book I finally got that I’m not stupid and I was right about the social platrorms. ]]></description>
+    <pubDate>Tue, 10 Feb 2026 08:19:52 GMT</pubDate>
   </item><item>
     <title>2026-02-09</title>
     <link>https://quartz.jzhao.xyz/04---Diary/2026-02-09</link>
@@ -30,18 +48,6 @@
     <description><![CDATA[ General To find a vector pointing from A to B, use B - A. Scalar Vectors represent both direction and magnitude (length). ]]></description>
     <pubDate>Mon, 09 Feb 2026 13:07:57 GMT</pubDate>
   </item><item>
-    <title>Interestings</title>
-    <link>https://quartz.jzhao.xyz/07---Tech/Interestings</link>
-    <guid>https://quartz.jzhao.xyz/07---Tech/Interestings</guid>
-    <description><![CDATA[ All the things that I want to as side jobs How to make package in flatpak Read the source code of maxwell spinning cat github Use the Dot() function in Gdscript and see how it works Make my note space on the web with jackyzha0/Quarts.git Work on the reactive version of my website eikoakiba Does more... ]]></description>
-    <pubDate>Mon, 09 Feb 2026 12:54:12 GMT</pubDate>
-  </item><item>
-    <title>Why IndieWeb?</title>
-    <link>https://quartz.jzhao.xyz/02---Blogs/web/Why-IndieWeb</link>
-    <guid>https://quartz.jzhao.xyz/02---Blogs/web/Why-IndieWeb</guid>
-    <description><![CDATA[ Greetings, have you ever ask yourself what is the purpose of creating handmade websites as a non-technical person using coding language likes HTML/CSS or even Javascript? well if it is then seems like you know what indie web is, but if you don’t know what exactly is that term, well I’ll got you. ]]></description>
-    <pubDate>Sun, 08 Feb 2026 17:35:58 GMT</pubDate>
-  </item><item>
     <title>Me</title>
     <link>https://quartz.jzhao.xyz/Me</link>
     <guid>https://quartz.jzhao.xyz/Me</guid>
@@ -59,12 +65,6 @@
     <guid>https://quartz.jzhao.xyz/05---Books/Network-programming-with-Go</guid>
     <description><![CDATA[ Notes network topologies point to point (P2P) direct connection from one node to another daisy multi p2p connections hops the nodes between source and destination in t he daisy topology is called hops. ]]></description>
     <pubDate>Sun, 08 Feb 2026 16:53:39 GMT</pubDate>
-  </item><item>
-    <title>Digital Minimalism</title>
-    <link>https://quartz.jzhao.xyz/05---Books/Digital-Minimalism</link>
-    <guid>https://quartz.jzhao.xyz/05---Books/Digital-Minimalism</guid>
-    <description><![CDATA[  ]]></description>
-    <pubDate>Sun, 08 Feb 2026 16:43:40 GMT</pubDate>
   </item>
     </channel>
   </rss>
