@@ -6,6 +6,12 @@
       <description>Last 10 notes on Fractuna</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
+    <title>my new noting website</title>
+    <link>https://quartz.jzhao.xyz/02---Blogs/web/my-new-noting-website</link>
+    <guid>https://quartz.jzhao.xyz/02---Blogs/web/my-new-noting-website</guid>
+    <description><![CDATA[ Well hello there! and greetings to this corner of the indie web. ]]></description>
+    <pubDate>Wed, 11 Feb 2026 18:10:34 GMT</pubDate>
+  </item><item>
     <title>Progress List</title>
     <link>https://quartz.jzhao.xyz/07---Tech/Progress-List</link>
     <guid>https://quartz.jzhao.xyz/07---Tech/Progress-List</guid>
@@ -59,12 +65,6 @@
     <guid>https://quartz.jzhao.xyz/01---Projects/retrocloud/Retrocloud</guid>
     <description><![CDATA[ Well… It’s an amazing project :&gt;. ]]></description>
     <pubDate>Sun, 08 Feb 2026 17:03:47 GMT</pubDate>
-  </item><item>
-    <title>Network programming with Go</title>
-    <link>https://quartz.jzhao.xyz/05---Books/Network-programming-with-Go</link>
-    <guid>https://quartz.jzhao.xyz/05---Books/Network-programming-with-Go</guid>
-    <description><![CDATA[ Notes network topologies point to point (P2P) direct connection from one node to another daisy multi p2p connections hops the nodes between source and destination in t he daisy topology is called hops. ]]></description>
-    <pubDate>Sun, 08 Feb 2026 16:53:39 GMT</pubDate>
   </item>
     </channel>
   </rss>
