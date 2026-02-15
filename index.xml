@@ -6,23 +6,47 @@
       <description>Last 10 notes on Fractuna</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
+    <title>Anime</title>
+    <link>https://quartz.jzhao.xyz/08---Movies/Anime</link>
+    <guid>https://quartz.jzhao.xyz/08---Movies/Anime</guid>
+    <description><![CDATA[ Watched Serial experiment Lain Death Note Watching Cowboy bebop Plan To Watch Todo Info This page contains all the useful information about my anilist.co profile, but for quicker updates or more information you can check out my anilist page links below; you can find other references that I use to wa... ]]></description>
+    <pubDate>Sun, 15 Feb 2026 10:58:15 GMT</pubDate>
+  </item><item>
+    <title>Interestings</title>
+    <link>https://quartz.jzhao.xyz/07---Tech/Interestings</link>
+    <guid>https://quartz.jzhao.xyz/07---Tech/Interestings</guid>
+    <description><![CDATA[ All the things that I want to as side jobs How to make package in flatpak Read the source code of maxwell spinning cat github Use the Dot() function in Gdscript and see how it works Make my note space on the web with jackyzha0/Quarts.git Learning Svelte Front-end framework Try nucleus shell. ]]></description>
+    <pubDate>Sun, 15 Feb 2026 07:38:23 GMT</pubDate>
+  </item><item>
+    <title>Slow communication concept</title>
+    <link>https://quartz.jzhao.xyz/02---Blogs/General/Slow-communication-concept</link>
+    <guid>https://quartz.jzhao.xyz/02---Blogs/General/Slow-communication-concept</guid>
+    <description><![CDATA[ Greetings internet folks, and here we are… the blog that I’ve always wanted to write and talk about. ]]></description>
+    <pubDate>Fri, 13 Feb 2026 19:51:27 GMT</pubDate>
+  </item><item>
+    <title>Progress List</title>
+    <link>https://quartz.jzhao.xyz/07---Tech/Progress-List</link>
+    <guid>https://quartz.jzhao.xyz/07---Tech/Progress-List</guid>
+    <description><![CDATA[ my last progress states: Reading tech news Learning Linux DBus Reading about the history of Ukrain Installing&amp;Using OpenClaw AI Agent . ]]></description>
+    <pubDate>Thu, 12 Feb 2026 20:15:52 GMT</pubDate>
+  </item><item>
+    <title>ascii maker (ascm)</title>
+    <link>https://quartz.jzhao.xyz/01---Projects/ascii-maker-(ascm)</link>
+    <guid>https://quartz.jzhao.xyz/01---Projects/ascii-maker-(ascm)</guid>
+    <description><![CDATA[ Make ascii from image inside the terminal, with the focus of optimizing the conversion time and capability. ]]></description>
+    <pubDate>Thu, 12 Feb 2026 15:48:10 GMT</pubDate>
+  </item><item>
+    <title>Multi-threading with python</title>
+    <link>https://quartz.jzhao.xyz/06---Study/Semester-02/System-Programming/01---Exercises/Multi-threading-with-python</link>
+    <guid>https://quartz.jzhao.xyz/06---Study/Semester-02/System-Programming/01---Exercises/Multi-threading-with-python</guid>
+    <description><![CDATA[ Title of project There is a C# project that can write and do other functions in the same time. more info → [[2025-11-15#Class#exercise]] Project todo. ]]></description>
+    <pubDate>Thu, 12 Feb 2026 11:47:37 GMT</pubDate>
+  </item><item>
     <title>my new noting website</title>
     <link>https://quartz.jzhao.xyz/02---Blogs/web/my-new-noting-website</link>
     <guid>https://quartz.jzhao.xyz/02---Blogs/web/my-new-noting-website</guid>
     <description><![CDATA[ Well hello there! and greetings to this corner of the indie web. ]]></description>
     <pubDate>Wed, 11 Feb 2026 18:10:34 GMT</pubDate>
-  </item><item>
-    <title>Progress List</title>
-    <link>https://quartz.jzhao.xyz/07---Tech/Progress-List</link>
-    <guid>https://quartz.jzhao.xyz/07---Tech/Progress-List</guid>
-    <description><![CDATA[ my last progress states: Fixing the building new updates problem from quartz Working on a 3D documentation in Godo (NOW) Switch over shell with some base configs Watching the minimalistic phone video Make my phone minimal as possible Automate the process of building and syncing and pushing my notes ... ]]></description>
-    <pubDate>Tue, 10 Feb 2026 18:09:16 GMT</pubDate>
-  </item><item>
-    <title>Interestings</title>
-    <link>https://quartz.jzhao.xyz/07---Tech/Interestings</link>
-    <guid>https://quartz.jzhao.xyz/07---Tech/Interestings</guid>
-    <description><![CDATA[ All the things that I want to as side jobs How to make package in flatpak Read the source code of maxwell spinning cat github Use the Dot() function in Gdscript and see how it works Make my note space on the web with jackyzha0/Quarts.git Work on the reactive version of my website eikoakiba Does more... ]]></description>
-    <pubDate>Tue, 10 Feb 2026 18:08:10 GMT</pubDate>
   </item><item>
     <title>Why IndieWeb?</title>
     <link>https://quartz.jzhao.xyz/02---Blogs/web/Why-IndieWeb</link>
@@ -41,30 +65,6 @@
     <guid>https://quartz.jzhao.xyz/04---Diary/2026-02-09</guid>
     <description><![CDATA[ well I think I should spend more time working with 3D part of Godot game engine. ]]></description>
     <pubDate>Mon, 09 Feb 2026 19:20:40 GMT</pubDate>
-  </item><item>
-    <title>todo books</title>
-    <link>https://quartz.jzhao.xyz/05---Books/todo-books</link>
-    <guid>https://quartz.jzhao.xyz/05---Books/todo-books</guid>
-    <description><![CDATA[  Atomic Habits . ]]></description>
-    <pubDate>Mon, 09 Feb 2026 18:47:06 GMT</pubDate>
-  </item><item>
-    <title>Godot 3D Doc notes</title>
-    <link>https://quartz.jzhao.xyz/07---Tech/02---Game-Programming/Godot/Godot-3D-Doc-notes</link>
-    <guid>https://quartz.jzhao.xyz/07---Tech/02---Game-Programming/Godot/Godot-3D-Doc-notes</guid>
-    <description><![CDATA[ General To find a vector pointing from A to B, use B - A. Scalar Vectors represent both direction and magnitude (length). ]]></description>
-    <pubDate>Mon, 09 Feb 2026 13:07:57 GMT</pubDate>
-  </item><item>
-    <title>Me</title>
-    <link>https://quartz.jzhao.xyz/Me</link>
-    <guid>https://quartz.jzhao.xyz/Me</guid>
-    <description><![CDATA[ Well it’s me xd. ]]></description>
-    <pubDate>Sun, 08 Feb 2026 17:13:57 GMT</pubDate>
-  </item><item>
-    <title>Retrocloud</title>
-    <link>https://quartz.jzhao.xyz/01---Projects/retrocloud/Retrocloud</link>
-    <guid>https://quartz.jzhao.xyz/01---Projects/retrocloud/Retrocloud</guid>
-    <description><![CDATA[ Well… It’s an amazing project :&gt;. ]]></description>
-    <pubDate>Sun, 08 Feb 2026 17:03:47 GMT</pubDate>
   </item>
     </channel>
   </rss>
