@@ -6,29 +6,53 @@
       <description>Last 10 notes on Fractuna</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
-    <title>Anime</title>
-    <link>https://quartz.jzhao.xyz/08---Movies/Anime</link>
-    <guid>https://quartz.jzhao.xyz/08---Movies/Anime</guid>
-    <description><![CDATA[ Watched Serial experiment Lain Death Note Watching Cowboy bebop Plan To Watch Todo Info This page contains all the useful information about my anilist.co profile, but for quicker updates or more information you can check out my anilist page links below; you can find other references that I use to wa... ]]></description>
-    <pubDate>Sun, 15 Feb 2026 10:58:15 GMT</pubDate>
+    <title>Dillo Browser</title>
+    <link>https://quartz.jzhao.xyz/04---Diary/Dillo-Browser</link>
+    <guid>https://quartz.jzhao.xyz/04---Diary/Dillo-Browser</guid>
+    <description><![CDATA[ Well I’m compiling the dillo browser, it seems like a great software! I’m so excited for it :3. ]]></description>
+    <pubDate>Fri, 20 Feb 2026 13:02:54 GMT</pubDate>
+  </item><item>
+    <title>Progress List</title>
+    <link>https://quartz.jzhao.xyz/07---Tech/Progress-List</link>
+    <guid>https://quartz.jzhao.xyz/07---Tech/Progress-List</guid>
+    <description><![CDATA[ my last progress states: runtime.Caller go function documentation Watching youtube Watching the history of visual novel games Working with Dillo browser Working on my website . ]]></description>
+    <pubDate>Fri, 20 Feb 2026 12:48:21 GMT</pubDate>
   </item><item>
     <title>Interestings</title>
     <link>https://quartz.jzhao.xyz/07---Tech/Interestings</link>
     <guid>https://quartz.jzhao.xyz/07---Tech/Interestings</guid>
-    <description><![CDATA[ All the things that I want to as side jobs How to make package in flatpak Read the source code of maxwell spinning cat github Use the Dot() function in Gdscript and see how it works Make my note space on the web with jackyzha0/Quarts.git Learning Svelte Front-end framework Try nucleus shell. ]]></description>
-    <pubDate>Sun, 15 Feb 2026 07:38:23 GMT</pubDate>
+    <description><![CDATA[ All the things that I want to as side jobs How to make package in flatpak Read the source code of maxwell spinning cat github Read more about Siberia country (bikal lake) Check out Daniel63.com web space Check out lowtech webring Checking out melonking web space check out ismile.neocities.org Check ... ]]></description>
+    <pubDate>Fri, 20 Feb 2026 12:10:59 GMT</pubDate>
   </item><item>
     <title>Slow communication concept</title>
     <link>https://quartz.jzhao.xyz/02---Blogs/General/Slow-communication-concept</link>
     <guid>https://quartz.jzhao.xyz/02---Blogs/General/Slow-communication-concept</guid>
     <description><![CDATA[ Greetings internet folks, and here we are… the blog that I’ve always wanted to write and talk about. ]]></description>
-    <pubDate>Fri, 13 Feb 2026 19:51:27 GMT</pubDate>
+    <pubDate>Fri, 20 Feb 2026 09:35:15 GMT</pubDate>
   </item><item>
-    <title>Progress List</title>
-    <link>https://quartz.jzhao.xyz/07---Tech/Progress-List</link>
-    <guid>https://quartz.jzhao.xyz/07---Tech/Progress-List</guid>
-    <description><![CDATA[ my last progress states: Reading tech news Learning Linux DBus Reading about the history of Ukrain Installing&amp;Using OpenClaw AI Agent . ]]></description>
-    <pubDate>Thu, 12 Feb 2026 20:15:52 GMT</pubDate>
+    <title>Back-end Tasks</title>
+    <link>https://quartz.jzhao.xyz/07---Tech/00---Back-end-Programming/Back-end-Tasks</link>
+    <guid>https://quartz.jzhao.xyz/07---Tech/00---Back-end-Programming/Back-end-Tasks</guid>
+    <description><![CDATA[  Learn DSA completely Checkout Sharding database design principle Checkout React Query Checkout ClickUp Program Learn backend engineering - with this Playlist what is preflight request Deploy apps tutorial - www.youtube.com/watch watch this video microservice - www.youtube.com/watch Master Go Progra... ]]></description>
+    <pubDate>Thu, 19 Feb 2026 16:07:54 GMT</pubDate>
+  </item><item>
+    <title>Russian Khrushchevka Houses</title>
+    <link>https://quartz.jzhao.xyz/04---Diary/Russian-Khrushchevka-Houses</link>
+    <guid>https://quartz.jzhao.xyz/04---Diary/Russian-Khrushchevka-Houses</guid>
+    <description><![CDATA[ Stalinka Between 1930 and 1950 with the leader ship of Staling, Russian had beautiful, complex and well made apartment design that was rich in the term of design level It’s important to mention that buildings like this constructed in industrial are of Russian. ]]></description>
+    <pubDate>Tue, 17 Feb 2026 11:53:46 GMT</pubDate>
+  </item><item>
+    <title>Fuzzy Algorithm</title>
+    <link>https://quartz.jzhao.xyz/07---Tech/07---Concepts/Fuzzy-Algorithm</link>
+    <guid>https://quartz.jzhao.xyz/07---Tech/07---Concepts/Fuzzy-Algorithm</guid>
+    <description><![CDATA[ A fuzzy system is a non-binary concept and computers used to make algorithms for vast software programs, we know this system more by its Searching mechanism. ]]></description>
+    <pubDate>Tue, 17 Feb 2026 11:10:16 GMT</pubDate>
+  </item><item>
+    <title>Anime</title>
+    <link>https://quartz.jzhao.xyz/08---Movies/Anime</link>
+    <guid>https://quartz.jzhao.xyz/08---Movies/Anime</guid>
+    <description><![CDATA[ Watched Serial experiment Lain Death Note Watching Cowboy bebop Plan To Watch Todo Info This page contains all the useful information about my anilist.co profile, but for quicker updates or more information you can check out my anilist page links below; you can find other references that I use to wa... ]]></description>
+    <pubDate>Sun, 15 Feb 2026 10:58:15 GMT</pubDate>
   </item><item>
     <title>ascii maker (ascm)</title>
     <link>https://quartz.jzhao.xyz/01---Projects/ascii-maker-(ascm)</link>
@@ -41,30 +65,6 @@
     <guid>https://quartz.jzhao.xyz/06---Study/Semester-02/System-Programming/01---Exercises/Multi-threading-with-python</guid>
     <description><![CDATA[ Title of project There is a C# project that can write and do other functions in the same time. more info → [[2025-11-15#Class#exercise]] Project todo. ]]></description>
     <pubDate>Thu, 12 Feb 2026 11:47:37 GMT</pubDate>
-  </item><item>
-    <title>my new noting website</title>
-    <link>https://quartz.jzhao.xyz/02---Blogs/web/my-new-noting-website</link>
-    <guid>https://quartz.jzhao.xyz/02---Blogs/web/my-new-noting-website</guid>
-    <description><![CDATA[ Well hello there! and greetings to this corner of the indie web. ]]></description>
-    <pubDate>Wed, 11 Feb 2026 18:10:34 GMT</pubDate>
-  </item><item>
-    <title>Why IndieWeb?</title>
-    <link>https://quartz.jzhao.xyz/02---Blogs/web/Why-IndieWeb</link>
-    <guid>https://quartz.jzhao.xyz/02---Blogs/web/Why-IndieWeb</guid>
-    <description><![CDATA[ Greetings, have you ever ask yourself what is the purpose of creating handmade websites as a non-technical person using coding language likes HTML/CSS or even Javascript? well if it is then seems like you know what indie web is, but if you don’t know what exactly is that term, well I’ll got you. ]]></description>
-    <pubDate>Tue, 10 Feb 2026 18:08:03 GMT</pubDate>
-  </item><item>
-    <title>Digital Minimalism</title>
-    <link>https://quartz.jzhao.xyz/05---Books/Digital-Minimalism</link>
-    <guid>https://quartz.jzhao.xyz/05---Books/Digital-Minimalism</guid>
-    <description><![CDATA[ well this books is pretty great, one thing about this book is that it has all the things that I had in my mind, and by reading this book I finally got that I’m not stupid and I was right about the social platrorms. ]]></description>
-    <pubDate>Tue, 10 Feb 2026 08:19:52 GMT</pubDate>
-  </item><item>
-    <title>2026-02-09</title>
-    <link>https://quartz.jzhao.xyz/04---Diary/2026-02-09</link>
-    <guid>https://quartz.jzhao.xyz/04---Diary/2026-02-09</guid>
-    <description><![CDATA[ well I think I should spend more time working with 3D part of Godot game engine. ]]></description>
-    <pubDate>Mon, 09 Feb 2026 19:20:40 GMT</pubDate>
   </item>
     </channel>
   </rss>
