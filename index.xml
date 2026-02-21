@@ -6,6 +6,12 @@
       <description>Last 10 notes on Fractuna</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
+    <title>Progress List</title>
+    <link>https://quartz.jzhao.xyz/07---Tech/Progress-List</link>
+    <guid>https://quartz.jzhao.xyz/07---Tech/Progress-List</guid>
+    <description><![CDATA[ my last progress states: runtime.Caller go function documentation Watching youtube Watching the history of visual novel games Working with Dillo browser Working on my website . ]]></description>
+    <pubDate>Sat, 21 Feb 2026 06:32:10 GMT</pubDate>
+  </item><item>
     <title>Dillo Browser</title>
     <link>https://quartz.jzhao.xyz/04---Diary/Dillo-Browser</link>
     <guid>https://quartz.jzhao.xyz/04---Diary/Dillo-Browser</guid>
@@ -17,18 +23,6 @@
     <guid>https://quartz.jzhao.xyz/07---Tech/Interestings</guid>
     <description><![CDATA[ All the things that I want to as side jobs How to make package in flatpak Read the source code of maxwell spinning cat github convert my notes images to webp for better performance Read more about Siberia country (bikal lake) Check out Daniel63.com web space Check out lowtech webring Checking out me... ]]></description>
     <pubDate>Fri, 20 Feb 2026 15:23:53 GMT</pubDate>
-  </item><item>
-    <title>Progress List</title>
-    <link>https://quartz.jzhao.xyz/07---Tech/Progress-List</link>
-    <guid>https://quartz.jzhao.xyz/07---Tech/Progress-List</guid>
-    <description><![CDATA[ my last progress states: runtime.Caller go function documentation Watching youtube Watching the history of visual novel games Working with Dillo browser Working on my website . ]]></description>
-    <pubDate>Fri, 20 Feb 2026 12:48:21 GMT</pubDate>
-  </item><item>
-    <title>Slow communication concept</title>
-    <link>https://quartz.jzhao.xyz/02---Blogs/General/Slow-communication-concept</link>
-    <guid>https://quartz.jzhao.xyz/02---Blogs/General/Slow-communication-concept</guid>
-    <description><![CDATA[ Greetings internet folks, and here we are… the blog that I’ve always wanted to write and talk about. ]]></description>
-    <pubDate>Fri, 20 Feb 2026 09:35:15 GMT</pubDate>
   </item><item>
     <title>Back-end Tasks</title>
     <link>https://quartz.jzhao.xyz/07---Tech/00---Back-end-Programming/Back-end-Tasks</link>
@@ -60,11 +54,17 @@
     <description><![CDATA[ Make ascii from image inside the terminal, with the focus of optimizing the conversion time and capability. ]]></description>
     <pubDate>Thu, 12 Feb 2026 15:48:10 GMT</pubDate>
   </item><item>
-    <title>Multi-threading with python</title>
-    <link>https://quartz.jzhao.xyz/06---Study/Semester-02/System-Programming/01---Exercises/Multi-threading-with-python</link>
-    <guid>https://quartz.jzhao.xyz/06---Study/Semester-02/System-Programming/01---Exercises/Multi-threading-with-python</guid>
-    <description><![CDATA[ Title of project There is a C# project that can write and do other functions in the same time. more info → [[2025-11-15#Class#exercise]] Project todo. ]]></description>
-    <pubDate>Thu, 12 Feb 2026 11:47:37 GMT</pubDate>
+    <title>my new noting website</title>
+    <link>https://quartz.jzhao.xyz/02---Blogs/web/my-new-noting-website</link>
+    <guid>https://quartz.jzhao.xyz/02---Blogs/web/my-new-noting-website</guid>
+    <description><![CDATA[ Well hello there! and greetings to this corner of the indie web. ]]></description>
+    <pubDate>Wed, 11 Feb 2026 18:10:34 GMT</pubDate>
+  </item><item>
+    <title>Why IndieWeb?</title>
+    <link>https://quartz.jzhao.xyz/02---Blogs/web/Why-IndieWeb</link>
+    <guid>https://quartz.jzhao.xyz/02---Blogs/web/Why-IndieWeb</guid>
+    <description><![CDATA[ Greetings, have you ever ask yourself what is the purpose of creating handmade websites as a non-technical person using coding language likes HTML/CSS or even Javascript? well if it is then seems like you know what indie web is, but if you don’t know what exactly is that term, well I’ll got you. ]]></description>
+    <pubDate>Tue, 10 Feb 2026 18:08:03 GMT</pubDate>
   </item>
     </channel>
   </rss>
