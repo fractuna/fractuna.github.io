@@ -1,10 +1,17 @@
 {
 	"nodes":[
-		{"id":"2a2dea1af85bddf4","type":"group","x":-420,"y":-320,"width":490,"height":340,"label":"CAN 1 - What Is Software"},
-		{"id":"20a4e0dadc1cd7b1","type":"text","text":"Software","x":-400,"y":-180,"width":140,"height":60,"color":"5"},
-		{"id":"5dbdd66421891398","type":"text","text":"Data","x":-200,"y":-180,"width":250,"height":60,"color":"5"},
-		{"id":"fd8700998acdbd79","type":"text","text":"Document","x":-200,"y":-60,"width":250,"height":60,"color":"5"},
-		{"id":"17240888d6424b0a","type":"text","text":"Code","x":-200,"y":-300,"width":250,"height":60,"color":"5"}
+		{"id":"be23a135842110e9","type":"group","x":-100,"y":-460,"width":400,"height":440,"label":"CAN 1.2 - Virtualization"},
+		{"id":"2a2dea1af85bddf4","type":"group","x":-700,"y":-460,"width":490,"height":340,"label":"CAN 1.1 - What Is Software"},
+		{"id":"20a4e0dadc1cd7b1","type":"text","text":"Software","x":-680,"y":-320,"width":140,"height":60,"color":"5"},
+		{"id":"5dbdd66421891398","type":"text","text":"Data","x":-480,"y":-320,"width":250,"height":60,"color":"5"},
+		{"id":"fd8700998acdbd79","type":"text","text":"Document","x":-480,"y":-200,"width":250,"height":60,"color":"5"},
+		{"id":"17240888d6424b0a","type":"text","text":"Code","x":-480,"y":-440,"width":250,"height":60,"color":"5"},
+		{"id":"b5f890a299ab3c0c","type":"text","text":"Linux OpenSUS","x":-80,"y":-440,"width":360,"height":60},
+		{"id":"afc140bebd4e85fd","type":"text","text":"Linux ubuntu","x":100,"y":-260,"width":180,"height":60},
+		{"id":"bd517953b78f55a8","type":"text","text":"Linux Debian","x":-80,"y":-260,"width":160,"height":60},
+		{"id":"97f7e8e6cb3cbe53","type":"text","text":"Hypervisor (Virtualization)","x":-80,"y":-180,"width":360,"height":60},
+		{"id":"b3ed6121311fd600","type":"text","text":"Hardware","x":-80,"y":-100,"width":360,"height":60},
+		{"id":"ba8ca8e08eb16465","type":"text","text":"Windows","x":-80,"y":-350,"width":360,"height":60}
 	],
 	"edges":[
 		{"id":"1a7d1ff9a772738f","fromNode":"20a4e0dadc1cd7b1","fromSide":"right","toNode":"17240888d6424b0a","toSide":"left"},
