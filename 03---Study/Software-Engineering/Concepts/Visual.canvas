@@ -1,0 +1,14 @@
+{
+	"nodes":[
+		{"id":"2a2dea1af85bddf4","type":"group","x":-420,"y":-320,"width":490,"height":340,"label":"CAN 1 - What Is Software"},
+		{"id":"20a4e0dadc1cd7b1","type":"text","text":"Software","x":-400,"y":-180,"width":140,"height":60,"color":"5"},
+		{"id":"5dbdd66421891398","type":"text","text":"Data","x":-200,"y":-180,"width":250,"height":60,"color":"5"},
+		{"id":"fd8700998acdbd79","type":"text","text":"Document","x":-200,"y":-60,"width":250,"height":60,"color":"5"},
+		{"id":"17240888d6424b0a","type":"text","text":"Code","x":-200,"y":-300,"width":250,"height":60,"color":"5"}
+	],
+	"edges":[
+		{"id":"1a7d1ff9a772738f","fromNode":"20a4e0dadc1cd7b1","fromSide":"right","toNode":"17240888d6424b0a","toSide":"left"},
+		{"id":"b3754b05cb899dbc","fromNode":"20a4e0dadc1cd7b1","fromSide":"right","toNode":"5dbdd66421891398","toSide":"left"},
+		{"id":"e1b15870ff853f66","fromNode":"20a4e0dadc1cd7b1","fromSide":"right","toNode":"fd8700998acdbd79","toSide":"left"}
+	]
+}

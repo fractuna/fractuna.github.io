@@ -6,11 +6,53 @@
       <description>Last 10 notes on Fractuna</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
+    <title>1.0 - What is Software Engineering</title>
+    <link>https://quartz.jzhao.xyz/03---Study/Software-Engineering/Concepts/1.0---What-is-Software-Engineering</link>
+    <guid>https://quartz.jzhao.xyz/03---Study/Software-Engineering/Concepts/1.0---What-is-Software-Engineering</guid>
+    <description><![CDATA[ First, we need to understand what does Software means. ]]></description>
+    <pubDate>Mon, 23 Feb 2026 09:09:23 GMT</pubDate>
+  </item><item>
+    <title>1.1 - Legacy Software</title>
+    <link>https://quartz.jzhao.xyz/03---Study/Software-Engineering/Concepts/1.1---Legacy-Software</link>
+    <guid>https://quartz.jzhao.xyz/03---Study/Software-Engineering/Concepts/1.1---Legacy-Software</guid>
+    <description><![CDATA[ Legacy A set of software that can be in active mode and outdated in the same time, A good examples can be: ATM machines that still runs DOS or any old operating system. ]]></description>
+    <pubDate>Mon, 23 Feb 2026 09:09:18 GMT</pubDate>
+  </item><item>
+    <title>Interestings</title>
+    <link>https://quartz.jzhao.xyz/07---Tech/Interestings</link>
+    <guid>https://quartz.jzhao.xyz/07---Tech/Interestings</guid>
+    <description><![CDATA[ All the things that I want to as side jobs How to make package in flatpak Read the source code of maxwell spinning cat github convert my notes images to webp for better performance Read more about Siberia country (bikal lake) What is UML in software engineering Check out Daniel63.com web space Check... ]]></description>
+    <pubDate>Mon, 23 Feb 2026 09:02:33 GMT</pubDate>
+  </item><item>
+    <title>References</title>
+    <link>https://quartz.jzhao.xyz/03---Study/References</link>
+    <guid>https://quartz.jzhao.xyz/03---Study/References</guid>
+    <description><![CDATA[ Machines Automata Class Class PDF (Link soon) (TODO) Extra www.youtube.com/watch get.faradars.org/pdf/free-books/theory-of-languages.pdf Software Engineering Class Soon Extra Software Engineering - A practical approach from Roger S.Pressman (TODO Essential Scrum - Kenneth S. ]]></description>
+    <pubDate>Mon, 23 Feb 2026 08:38:56 GMT</pubDate>
+  </item><item>
+    <title>Unix shared system</title>
+    <link>https://quartz.jzhao.xyz/04---Diary/Unix-shared-system</link>
+    <guid>https://quartz.jzhao.xyz/04---Diary/Unix-shared-system</guid>
+    <description><![CDATA[ Hello, I was searching about the indie web that I got something very cool! there is a concept called Tilde that users use a share Unix base operating system for creating stuff such as web pages. ]]></description>
+    <pubDate>Mon, 23 Feb 2026 08:04:45 GMT</pubDate>
+  </item><item>
+    <title>Queue</title>
+    <link>https://quartz.jzhao.xyz/05---Books/Queue</link>
+    <guid>https://quartz.jzhao.xyz/05---Books/Queue</guid>
+    <description><![CDATA[  Atomic Habits Clean Code - Robert C. Martin Essential Scrum - Kenneth S. Rubin . ]]></description>
+    <pubDate>Sun, 22 Feb 2026 16:39:57 GMT</pubDate>
+  </item><item>
     <title>What is Machine Automata theory</title>
     <link>https://quartz.jzhao.xyz/03---Study/Machines-Automata/Concepts/What-is-Machine-Automata-theory</link>
     <guid>https://quartz.jzhao.xyz/03---Study/Machines-Automata/Concepts/What-is-Machine-Automata-theory</guid>
     <description><![CDATA[ Automata theory is the study of abstract machines and Automata, and how or what tasks can we solve with them. ]]></description>
-    <pubDate>Sat, 21 Feb 2026 11:40:40 GMT</pubDate>
+    <pubDate>Sun, 22 Feb 2026 15:51:46 GMT</pubDate>
+  </item><item>
+    <title>Back-end Tasks</title>
+    <link>https://quartz.jzhao.xyz/07---Tech/00---Back-end-Programming/Back-end-Tasks</link>
+    <guid>https://quartz.jzhao.xyz/07---Tech/00---Back-end-Programming/Back-end-Tasks</guid>
+    <description><![CDATA[  Learn DSA completely Object relational mapping libraries (ORM) Checkout Sharding database design principle Checkout React Query Checkout ClickUp Program Learn backend engineering - with this Playlist what is preflight request Deploy apps tutorial - www.youtube.com/watch watch this video microservic... ]]></description>
+    <pubDate>Sun, 22 Feb 2026 01:38:00 GMT</pubDate>
   </item><item>
     <title>Progress List</title>
     <link>https://quartz.jzhao.xyz/07---Tech/Progress-List</link>
@@ -23,48 +65,6 @@
     <guid>https://quartz.jzhao.xyz/04---Diary/Dillo-Browser</guid>
     <description><![CDATA[ Well I’m compiling the dillo browser, it seems like a great software! I’m so excited for it :3. ]]></description>
     <pubDate>Fri, 20 Feb 2026 15:28:51 GMT</pubDate>
-  </item><item>
-    <title>Interestings</title>
-    <link>https://quartz.jzhao.xyz/07---Tech/Interestings</link>
-    <guid>https://quartz.jzhao.xyz/07---Tech/Interestings</guid>
-    <description><![CDATA[ All the things that I want to as side jobs How to make package in flatpak Read the source code of maxwell spinning cat github convert my notes images to webp for better performance Read more about Siberia country (bikal lake) Check out Daniel63.com web space Check out lowtech webring Checking out me... ]]></description>
-    <pubDate>Fri, 20 Feb 2026 15:23:53 GMT</pubDate>
-  </item><item>
-    <title>Back-end Tasks</title>
-    <link>https://quartz.jzhao.xyz/07---Tech/00---Back-end-Programming/Back-end-Tasks</link>
-    <guid>https://quartz.jzhao.xyz/07---Tech/00---Back-end-Programming/Back-end-Tasks</guid>
-    <description><![CDATA[  Learn DSA completely Checkout Sharding database design principle Checkout React Query Checkout ClickUp Program Learn backend engineering - with this Playlist what is preflight request Deploy apps tutorial - www.youtube.com/watch watch this video microservice - www.youtube.com/watch Master Go Progra... ]]></description>
-    <pubDate>Thu, 19 Feb 2026 16:07:54 GMT</pubDate>
-  </item><item>
-    <title>Russian Khrushchevka Houses</title>
-    <link>https://quartz.jzhao.xyz/04---Diary/Russian-Khrushchevka-Houses</link>
-    <guid>https://quartz.jzhao.xyz/04---Diary/Russian-Khrushchevka-Houses</guid>
-    <description><![CDATA[ Stalinka Between 1930 and 1950 with the leader ship of Staling, Russian had beautiful, complex and well made apartment design that was rich in the term of design level It’s important to mention that buildings like this constructed in industrial are of Russian. ]]></description>
-    <pubDate>Tue, 17 Feb 2026 11:53:46 GMT</pubDate>
-  </item><item>
-    <title>Fuzzy Algorithm</title>
-    <link>https://quartz.jzhao.xyz/07---Tech/07---Concepts/Fuzzy-Algorithm</link>
-    <guid>https://quartz.jzhao.xyz/07---Tech/07---Concepts/Fuzzy-Algorithm</guid>
-    <description><![CDATA[ A fuzzy system is a non-binary concept and computers used to make algorithms for vast software programs, we know this system more by its Searching mechanism. ]]></description>
-    <pubDate>Tue, 17 Feb 2026 11:10:16 GMT</pubDate>
-  </item><item>
-    <title>Anime</title>
-    <link>https://quartz.jzhao.xyz/08---Movies/Anime</link>
-    <guid>https://quartz.jzhao.xyz/08---Movies/Anime</guid>
-    <description><![CDATA[ Watched Serial experiment Lain Death Note Watching Cowboy bebop Plan To Watch Todo Info This page contains all the useful information about my anilist.co profile, but for quicker updates or more information you can check out my anilist page links below; you can find other references that I use to wa... ]]></description>
-    <pubDate>Sun, 15 Feb 2026 10:58:15 GMT</pubDate>
-  </item><item>
-    <title>ascii maker (ascm)</title>
-    <link>https://quartz.jzhao.xyz/01---Projects/ascii-maker-(ascm)</link>
-    <guid>https://quartz.jzhao.xyz/01---Projects/ascii-maker-(ascm)</guid>
-    <description><![CDATA[ Make ascii from image inside the terminal, with the focus of optimizing the conversion time and capability. ]]></description>
-    <pubDate>Thu, 12 Feb 2026 15:48:10 GMT</pubDate>
-  </item><item>
-    <title>my new noting website</title>
-    <link>https://quartz.jzhao.xyz/02---Blogs/web/my-new-noting-website</link>
-    <guid>https://quartz.jzhao.xyz/02---Blogs/web/my-new-noting-website</guid>
-    <description><![CDATA[ Well hello there! and greetings to this corner of the indie web. ]]></description>
-    <pubDate>Wed, 11 Feb 2026 18:10:34 GMT</pubDate>
   </item>
     </channel>
   </rss>
