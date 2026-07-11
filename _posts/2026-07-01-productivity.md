@@ -45,7 +45,7 @@ I use [Okular](https://okular.kde.org/) to read PDFs, research paper or even ann
 For the operating system, I mostly use [Fedora Linux](https://fedoraproject.org/) but I'll switch to other ones when i need to use certain apps that doesn't work on Linux.
 
 
-# Conclusioon
+# Conclusion
 well... there is so much things to talk about, but for now i think this is good enough. For sure, begin __productive__ doesn't mean using some sort of special tools or devices, it means understanding what you want to do in your life and shape proper habits to enjoy life.
 
 Hope you liked it and i see you in the next blog. bye :>
