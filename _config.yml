@@ -14,12 +14,12 @@ timezone:
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Fractuna Space # the main title
+title: James Wise # the main title
 
-tagline: Fractuna technology space # it will display as the subtitle
+tagline: James Tech Space # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
-  Greetings to my personal tech space, here I will brainstorm all my thoughts about technology
+  Greetings to my personal tech space, here I brainstorm all my thoughts about technology, life, and Science
 
 # Fill in the protocol & hostname for your site.
 # E.g. 'https://username.github.io', note that it does not end with a '/'.
@@ -39,7 +39,7 @@ social:
   fediverse_handle: # fill in your fediverse handle. E.g. "@username@domain.com"
   links:
     # The first element serves as the copyright owner's link
-    - https://twitter.com/fractuna # change to your Twitter homepage
+    # - https://twitter.com/fractuna # change to your Twitter homepage
     - https://github.com/fractuna # change to your GitHub homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username

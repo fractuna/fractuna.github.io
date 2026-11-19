@@ -5,7 +5,7 @@ categories: [Life, MyThoughts]
 tags: [Productivity]     # TAG names should always be lowercase
 ---
 
-Let's talk about creativity and begin someone that you actually want to be! This blog is my experiment with the _Study_ community and how I've been doing the same thing in my life.
+Let's talk about creativity and life! This blog is my experiment with the _Study_ or _Productivity_ community and how I've been implementing the same system in my life.
 
 Since I started following some __productive__ communities around the world, i found that there is vibes around the topic of begin _Productive_. But after some times, I started to realize that there is something about them that is actually unique. The way they aestheticize their workflow and environment is, in the same time beautiful and actually _productive_. Then i understand that it is not just about begin aesthetic, it is a way of living to make the process of _hard working_ easy and _enjoyable_ to live a life that is valuable and fun.
 
